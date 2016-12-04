@@ -1,0 +1,10 @@
+$background:#fffff;
+.testing {
+  width: percentage(5/7);
+}
+body{
+	background-color: $background;
+}
+p{
+	color: red;
+}
